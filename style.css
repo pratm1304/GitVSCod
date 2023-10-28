@@ -1,0 +1,159 @@
+body{
+    margin: 1.5rem;
+    background-color: aliceblue;
+}
+
+.MainHeading{
+    margin: 15rem 0 25rem 0;
+    text-align: center;
+}
+
+.MainHeading h1{
+    font-size: 6vw;
+}
+
+.MainHeading h3{
+    
+    font-weight: 400;
+}
+
+.AboutMe{
+    text-align: center;
+}
+
+.AboutMePara{
+    margin: 0 3rem 0 3rem;
+    font-size: large;
+    margin-bottom: 20rem;
+}
+
+.row{
+    height: 20rem;
+    
+}
+
+
+.card{
+    display: inline-block;
+    margin: 1rem;
+}
+
+
+.skill-box{
+    
+    display: flex;
+    height: 12rem;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.skill-box p{
+    font-weight: 500;
+    
+}
+
+
+.box1{
+    background-color: rgba(255, 0, 0, 0.554);
+    width: 12rem;
+    height: 12rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+
+}
+
+.box2{
+    background-color: rgba(85, 255, 0, 0.646);
+    width: 12rem;
+    height: 12rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+
+}
+
+.box3{
+    background-color: rgba(0, 166, 255, 0.682);
+    width: 12rem;
+    height: 12rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+
+
+}
+
+.p-logo img{
+    width: 5rem;
+    border-radius: 0.9rem;
+}
+
+.project {
+    margin-top: 20rem;
+}
+
+
+.projects{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 60%;
+    margin-inline: auto;
+    
+}
+
+.proj1{
+    background-color: rgba(230, 238, 175, 0.561);
+    width: 16rem;
+    height: 17rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.projects img{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.projects p{
+    font-size: large;
+    font-weight: 500;
+}
+
+.proj2{
+    background-color: rgba(175, 228, 238, 0.611);
+    width: 16rem;
+    height: 17rem;
+    border-radius: 1rem;
+    text-align: center;
+    
+}
+
+.modeDiv img {
+    width: 36px;
+    height: 42px;
+    
+
+
+}
+
+
+
+.navbar{
+    background-color: rgba(255, 193, 7, 1);
+    z-index: 10;
+    
+}
+
+#homebtn {
+    background-color: #2faa44;
+    color: white;
+}
+
+.tagcolor{
+    background-color: #0D6EFD;
+    color: white;
+}
+
